@@ -1,5 +1,5 @@
 AMGE - Another Mobile Game Engine
 
-v.1.0 - Canvas
+v.1.x - Canvas
 
-v.2.0 - OpenGL support
+v.2.x - OpenGL support
