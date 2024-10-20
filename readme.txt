@@ -1,4 +1,4 @@
-AMGE - Another Mobile Game Engine is developed in 2017 by Sergey Baskov
+AMGE - Another Mobile Game Engine is developed in 2017 by Sergey Baskov (Sergei Baskov)
 All rights are reserved
 
 v.1.x - Canvas
